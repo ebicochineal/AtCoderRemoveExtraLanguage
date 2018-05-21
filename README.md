@@ -1,3 +1,8 @@
+# atcoder-remove-extra-language.user.js
+Install
+https://github.com/ebicochineal/AtCoderRemoveExtraLanguage/atcoder-remove-extra-language.user.js
+
+
 # AtCoder Remove Extra Language
 Chrome拡張機能  
 必要な提出言語のみ表示  
