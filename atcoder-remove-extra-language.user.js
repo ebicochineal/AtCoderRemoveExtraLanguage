@@ -17,7 +17,6 @@ function MatchLang(text) {
 }
 (function() {
     var c = document.getElementsByClassName("submit-language-selector")
-
     for (var i = 0; i < c.length; i++) {
         var o = document.getElementById(c[i].id).options
         var html = ''
