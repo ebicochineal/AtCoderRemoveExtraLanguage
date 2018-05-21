@@ -1,6 +1,6 @@
 # atcoder-remove-extra-language.user.js
-Install
-https://github.com/ebicochineal/AtCoderRemoveExtraLanguage/atcoder-remove-extra-language.user.js
+Install  
+https://github.com/ebicochineal/AtCoderRemoveExtraLanguage/raw/master/atcoder-remove-extra-language.user.js
 
 
 # AtCoder Remove Extra Language
