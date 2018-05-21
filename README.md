@@ -1,4 +1,5 @@
 # atcoder-remove-extra-language.user.js
+submitでC++14, Python3, PyPy3, C#以外を消す
 Install  
 https://github.com/ebicochineal/AtCoderRemoveExtraLanguage/raw/master/atcoder-remove-extra-language.user.js
 
