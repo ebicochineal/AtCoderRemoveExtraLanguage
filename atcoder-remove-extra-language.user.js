@@ -49,7 +49,7 @@ function B () {
         if (MatchLang(o[j].text)) {
             var val = '"' + o[j].value + '"'
             var sel = o[j].selected ? ' selected=""' : ''
-            var l = '<option value=' + val + sel + 'data-mime="' + o[j].mime + '">'
+            var l = '<option value=' + val + sel + 'data-mime="' + o[j].getAttribute('data-mine') + '">'
             var r = '</option>'
             html += l + o[j].text + r
         }
